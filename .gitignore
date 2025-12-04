@@ -1,6 +1,8 @@
 .venv/
+fraude_venv/
 __pycache__/
 *.pyc
+*.pyo
 data/
 _*/
 _*
