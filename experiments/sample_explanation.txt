@@ -1,0 +1,7 @@
+Transaction ID: 855
+Top Contributing Features:
+- V14 (value: -4.6838) increased fraud risk.
+- V10 (value: -2.6494) increased fraud risk.
+- V4 (value: 3.5846) increased fraud risk.
+- V12 (value: -2.5875) increased fraud risk.
+- V8 (value: 0.8784) decreased fraud risk.
