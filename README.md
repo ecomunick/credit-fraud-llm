@@ -104,6 +104,9 @@ docker run -p 8000:8000 --env-file .env fraud-detection-api
 - **POST `/predict`**: Returns fraud probability and classification.
 - **POST `/explain`**: Returns prediction + technical SHAP factors + LLM natural language summary.
 
+## 📺 Project Demo
+![API Interaction Demo](experiments/api_demo.gif)
+
 ## 🧪 Testing the API
 Once the server is running, you can test the **Explainability Pipeline** using the interactive documentation:
 
